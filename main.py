@@ -203,6 +203,3 @@ def main():
         print(res_utilization)
 
 
-if __name__ == '__main__':
-    main()
-
